@@ -1,4 +1,5 @@
 {
     "lang":"fr",
-    "doc_path":"doc/camus_myth_sisyphus.txt"
+    "doc_path":"dataset/sample.txt",
+    "tld":"fr"
 }
